@@ -1,0 +1,15 @@
+com\puente\app\FindAllBooksDetail.class
+com\puente\domain\Category.class
+com\puente\domain\Book.class
+com\puente\domain\Author.class
+com\puente\app\FindAllBooksNativeQuery.class
+com\puente\domain\Category_.class
+com\puente\app\FindBookByAuthorId.class
+com\puente\app\SaveNewBook.class
+com\puente\dao\PublishingService.class
+com\puente\app\DeleteBook.class
+com\puente\app\FindBookDeatilsById.class
+com\puente\dao\PublishingServiceImp.class
+com\puente\domain\Book_.class
+com\puente\domain\Author_.class
+com\puente\app\FindAllBooks.class
